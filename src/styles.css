@@ -8,7 +8,7 @@
 
 body {
   font-family: 'Inter', sans-serif;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #bde6ff 0%, #95cfff 100%);
   min-height: 100vh;
   color: #333;
 }
@@ -46,7 +46,7 @@ body {
 }
 
 .btn-primary {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #488df3 0%, #031a8a 100%);
   color: white;
 }
 
@@ -61,7 +61,7 @@ body {
 }
 
 .btn-danger {
-  background: linear-gradient(135deg, #ff416c 0%, #ff4b2b 100%);
+  background: linear-gradient(135deg, #f30602 0%, #c70404 100%);
   color: white;
 }
 
@@ -92,11 +92,11 @@ body {
 }
 
 .form-control.error {
-  border-color: #ff416c;
+  border-color: #c70404;
 }
 
 .error-message {
-  color: #ff416c;
+  color: #c70404;
   font-size: 14px;
   margin-top: 5px;
 }
@@ -120,7 +120,7 @@ body {
 .nav-brand {
   font-size: 24px;
   font-weight: 700;
-  color: #667eea;
+  color: #02318a;
 }
 
 .nav-links {
@@ -138,7 +138,7 @@ body {
 
 .nav-link:hover,
 .nav-link.active {
-  color: #667eea;
+  color: #012571;
 }
 
 .grid {
@@ -163,7 +163,7 @@ body {
 }
 
 .text-danger {
-  color: #ff416c;
+  color: #c70404;
 }
 
 .text-warning {

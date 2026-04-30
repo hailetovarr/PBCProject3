@@ -126,7 +126,7 @@ import { BudgetService, Income } from '../../services/budget.service';
   `,
   styles: [`
     .income-container h1 {
-      color: #667eea;
+      color: #02318a;
       font-weight: 700;
       text-align: center;
     }

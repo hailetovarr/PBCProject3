@@ -106,7 +106,7 @@ import { Observable } from 'rxjs';
   `,
   styles: [`
     .summary-container h1 {
-      color: #667eea;
+      color: #0333a3;
       font-weight: 700;
       text-align: center;
     }
@@ -141,7 +141,7 @@ import { Observable } from 'rxjs';
 
     .category-amount {
       font-weight: 600;
-      color: #667eea;
+      color: #032c94;
     }
 
     .transaction-item {

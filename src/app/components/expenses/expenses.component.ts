@@ -186,7 +186,7 @@ import { BudgetService, Expense } from '../../services/budget.service';
   `,
   styles: [`
     .expenses-container h1 {
-      color: #667eea;
+      color: #02318a;
       font-weight: 700;
       text-align: center;
     }
